@@ -10,3 +10,22 @@ Some ideas surfaced in my mind as I was participating in the PROCERGS DATATHON. 
 Why not?
 
 
+<br>
+
+</br>
+
+
+# :mag:Transform: Instructions(WIP) 
+
+
+```bash
+
+# It's always better to create an venv for each project.
+python -m venv .venv
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run it like this(for now!)
+streamlit run app.py
+```
