@@ -20,7 +20,7 @@ Why not?
 
 ```bash
 
-# It's always better to create an venv for each project.
+# It's always better to create a venv for each project.
 python -m venv .venv
 
 # Install requirements
